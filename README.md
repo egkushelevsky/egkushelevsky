@@ -1,4 +1,7 @@
-## Hi there 👋
+## Note on my repos
+You might notice that all my code from school projects posted here is from before fall 2023. In accordance with the Columbia CS honor code, I do not 
+publicly share code from class assignments. Recruiters: to request more recent code samples, please reach out to me via email at egkushelevsky@gmail.com and
+I'd be happy to share.
 
 <!--
 **egkushelevsky/egkushelevsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

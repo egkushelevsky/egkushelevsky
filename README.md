@@ -1,5 +1,4 @@
 ## Welcome!
-I'm Elizabeth, a sophomore studying CS at Barnard College of Columbia University.
 
 <!--
 **egkushelevsky/egkushelevsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

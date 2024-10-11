@@ -1,7 +1,5 @@
-## Note on my repos
-In accordance with the Columbia CS honor code, I do not 
-publicly post code from class assignments. To request more recent code samples, please reach out to me via email at egkushelevsky@gmail.com and
-I'd be happy to share.
+## Welcome!
+I'm Elizabeth, a sophomore studying CS at Barnard College of Columbia University.
 
 <!--
 **egkushelevsky/egkushelevsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
